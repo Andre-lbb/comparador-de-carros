@@ -1,0 +1,52 @@
+[
+    {
+        "marca": "Toyota",
+        "modelo": "Yaris",
+        "ano": 2025,
+        "preco": 235000,
+        "potencia": 352,
+        "consumo_alcool": 4.3,
+        "consumo_gasolina": 7.4,
+        "quilometragem": 1000
+    },
+    {
+        "marca": "Honda",
+        "modelo": "Civic",
+        "ano": 2018,
+        "preco": 120000,
+        "potencia": 185,
+        "consumo_alcool": 7.3,
+        "consumo_gasolina": 9.8,
+        "quilometragem": 83450
+    },
+    {
+        "marca": "Renault",
+        "modelo": "Sandero",
+        "ano": 2019,
+        "preco": 44800,
+        "potencia": 118,
+        "consumo_alcool": 9.3,
+        "consumo_gasolina": 11.6,
+        "quilometragem": 149000
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Versa",
+        "ano": 2017,
+        "preco": 47500,
+        "potencia": 112,
+        "consumo_alcool": 8.7,
+        "consumo_gasolina": 10.5,
+        "quilometragem": 124500
+    },
+    {
+        "marca": "Volkswagen",
+        "modelo": "Gol 1.6",
+        "ano": 2022,
+        "preco": 64000,
+        "potencia": 110,
+        "consumo_alcool": 8.9,
+        "consumo_gasolina": 10.2,
+        "quilometragem": 85200
+    }
+]
